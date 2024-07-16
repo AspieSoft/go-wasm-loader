@@ -11,5 +11,5 @@ An automatic script loader for golang WebAssembly scripts.
 ## Usage
 
 ```html
-<script type="wasm/go" src="./go_script.wasm"></script>
+<script type="wasm/go" src="/go_script.wasm"></script>
 ```
